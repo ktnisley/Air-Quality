@@ -1,0 +1,585 @@
+Burning In
+Come back in 24 hours
+sensorZero = 224
+sensorZero = 846
+Sensor 1 is floating
+sensorOne = 637
+We've done this 1 times.
+Come back in 23 hours.
+sensorZero = 23
+Sensor 1 is floating
+sensorOne = 123
+We've done this 2 times.
+Come back in 23 hours.
+sensorZero = 398
+Sensor 1 is floating
+sensorOne = 358
+We've done this 3 times.
+Come back in 23 hours.
+sensorZero = 901
+Sensor 1 is floating
+sensorOne = 670
+We've done this 4 times.
+Come back in 23 hours.
+sensorZero = 887
+Sensor 1 is floating
+sensorOne = 670
+We've done this 5 times.
+Come back in 23 hours.
+restarted
+Burning In
+Come back in 24 hours
+sensorZero = 0
+sensorOne = 60
+sensorZero = 449
+sensorOne = 379
+We've done this 1 times.
+Come back in 23 hours.
+sensorZero = 478
+sensorOne = 402
+We've done this 2 times.
+Come back in 23 hours.
+sensorZero = 428
+sensorOne = 388
+We've done this 3 times.
+Come back in 23 hours.
+sensorZero = 660
+sensorOne = 513
+We've done this 4 times.
+Come back in 23 hours.
+sensorZero = 21
+sensorOne = 129
+We've done this 5 times.
+Come back in 23 hours.
+sensorZero = 438
+sensorOne = 373
+We've done this 6 times.
+Come back in 23 hours.
+sensorZero = 885
+sensorOne = 660
+We've done this 7 times.
+Come back in 22 hours.
+sensorZero = 332
+sensorOne = 326
+We've done this 8 times.
+Come back in 22 hours.
+sensorZero = 743
+sensorOne = 585
+We've done this 9 times.
+Come back in 22 hours.
+sensorZero = 914
+sensorOne = 682
+We've done this 10 times.
+Come back in 22 hours.
+sensorZero = 161
+sensorOne = 212
+We've done this 11 times.
+Come back in 22 hours.
+sensorZero = 118
+sensorOne = 176
+We've done this 12 times.
+Come back in 22 hours.
+sensorZero = 551
+sensorOne = 466
+We've done this 13 times.
+Come back in 21 hours.
+sensorZero = 167
+sensorOne = 205
+We've done this 14 times.
+Come back in 21 hours.
+sensorZero = 347
+sensorOne = 338
+We've done this 15 times.
+Come back in 21 hours.
+sensorZero = 190
+sensorOne = 220
+We've done this 16 times.
+Come back in 21 hours.
+sensorZero = 649
+sensorOne = 507
+We've done this 17 times.
+Come back in 21 hours.
+sensorZero = 572
+sensorOne = 458
+We've done this 18 times.
+Come back in 21 hours.
+sensorZero = 268
+sensorOne = 286
+We've done this 19 times.
+Come back in 20 hours.
+sensorZero = 473
+sensorOne = 399
+We've done this 20 times.
+Come back in 20 hours.
+sensorZero = 176
+sensorOne = 210
+We've done this 21 times.
+Come back in 20 hours.
+sensorZero = 104
+sensorOne = 178
+We've done this 22 times.
+Come back in 20 hours.
+sensorZero = 516
+sensorOne = 426
+We've done this 23 times.
+Come back in 20 hours.
+sensorZero = 709
+sensorOne = 562
+We've done this 24 times.
+Come back in 20 hours.
+sensorZero = 0
+sensorOne = 116
+We've done this 25 times.
+Come back in 19 hours.
+sensorZero = 681
+sensorOne = 531
+We've done this 26 times.
+Come back in 19 hours.
+sensorZero = 132
+sensorOne = 193
+We've done this 27 times.
+Come back in 19 hours.
+sensorZero = 389
+sensorOne = 343
+We've done this 28 times.
+Come back in 19 hours.
+sensorZero = 134
+sensorOne = 197
+We've done this 29 times.
+Come back in 19 hours.
+sensorZero = 308
+sensorOne = 314
+We've done this 30 times.
+Come back in 19 hours.
+sensorZero = 760
+sensorOne = 583
+We've done this 31 times.
+Come back in 18 hours.
+sensorZero = 476
+sensorOne = 417
+We've done this 32 times.
+Come back in 18 hours.
+sensorZero = 17
+sensorOne = 132
+We've done this 33 times.
+Come back in 18 hours.
+sensorZero = 826
+sensorOne = 633
+We've done this 34 times.
+Come back in 18 hours.
+sensorZero = 277
+sensorOne = 271
+We've done this 35 times.
+Come back in 18 hours.
+sensorZero = 145
+sensorOne = 192
+We've done this 36 times.
+Come back in 18 hours.
+sensorZero = 33
+sensorOne = 135
+We've done this 37 times.
+Come back in 17 hours.
+sensorZero = 33
+sensorOne = 135
+We've done this 38 times.
+Come back in 17 hours.
+sensorZero = 830
+sensorOne = 636
+We've done this 39 times.
+Come back in 17 hours.
+sensorZero = 756
+sensorOne = 592
+We've done this 40 times.
+Come back in 17 hours.
+sensorZero = 8
+sensorOne = 125
+We've done this 41 times.
+Come back in 17 hours.
+sensorZero = 530
+sensorOne = 451
+We've done this 42 times.
+Come back in 17 hours.
+sensorZero = 269
+sensorOne = 288
+We've done this 43 times.
+Come back in 16 hours.
+sensorZero = 592
+sensorOne = 492
+We've done this 44 times.
+Come back in 16 hours.
+sensorZero = 487
+sensorOne = 408
+We've done this 45 times.
+Come back in 16 hours.
+sensorZero = 278
+sensorOne = 276
+We've done this 46 times.
+Come back in 16 hours.
+sensorZero = 25
+sensorOne = 131
+We've done this 47 times.
+Come back in 16 hours.
+sensorZero = 118
+sensorOne = 178
+We've done this 48 times.
+Come back in 16 hours.
+sensorZero = 668
+sensorOne = 537
+We've done this 49 times.
+Come back in 15 hours.
+sensorZero = 590
+sensorOne = 470
+We've done this 50 times.
+Come back in 15 hours.
+sensorZero = 849
+sensorOne = 639
+We've done this 51 times.
+Come back in 15 hours.
+sensorZero = 106
+sensorOne = 180
+We've done this 52 times.
+Come back in 15 hours.
+sensorZero = 146
+sensorOne = 193
+We've done this 53 times.
+Come back in 15 hours.
+sensorZero = 25
+sensorOne = 127
+We've done this 54 times.
+Come back in 15 hours.
+sensorZero = 39
+sensorOne = 143
+We've done this 55 times.
+Come back in 14 hours.
+sensorZero = 504
+sensorOne = 435
+We've done this 56 times.
+Come back in 14 hours.
+sensorZero = 567
+sensorOne = 476
+We've done this 57 times.
+Come back in 14 hours.
+sensorZero = 104
+sensorOne = 178
+We've done this 58 times.
+Come back in 14 hours.
+sensorZero = 852
+sensorOne = 649
+We've done this 59 times.
+Come back in 14 hours.
+sensorZero = 695
+sensorOne = 541
+We've done this 60 times.
+Come back in 14 hours.
+sensorZero = 760
+sensorOne = 581
+We've done this 61 times.
+Come back in 13 hours.
+sensorZero = 833
+sensorOne = 637
+We've done this 62 times.
+Come back in 13 hours.
+sensorZero = 92
+sensorOne = 160
+We've done this 63 times.
+Come back in 13 hours.
+sensorZero = 248
+sensorOne = 271
+We've done this 64 times.
+Come back in 13 hours.
+sensorZero = 198
+sensorOne = 236
+We've done this 65 times.
+Come back in 13 hours.
+sensorZero = 191
+sensorOne = 231
+We've done this 66 times.
+Come back in 13 hours.
+sensorZero = 806
+sensorOne = 612
+We've done this 67 times.
+Come back in 12 hours.
+sensorZero = 419
+sensorOne = 377
+We've done this 68 times.
+Come back in 12 hours.
+sensorZero = 217
+sensorOne = 246
+We've done this 69 times.
+Come back in 12 hours.
+sensorZero = 664
+sensorOne = 530
+We've done this 70 times.
+Come back in 12 hours.
+sensorZero = 558
+sensorOne = 469
+We've done this 71 times.
+Come back in 12 hours.
+sensorZero = 751
+sensorOne = 575
+We've done this 72 times.
+Come back in 12 hours.
+sensorZero = 16
+sensorOne = 120
+We've done this 73 times.
+Come back in 11 hours.
+sensorZero = 267
+sensorOne = 263
+We've done this 74 times.
+Come back in 11 hours.
+sensorZero = 407
+sensorOne = 369
+We've done this 75 times.
+Come back in 11 hours.
+sensorZero = 837
+sensorOne = 639
+We've done this 76 times.
+Come back in 11 hours.
+sensorZero = 45
+sensorOne = 143
+We've done this 77 times.
+Come back in 11 hours.
+sensorZero = 5
+sensorOne = 111
+We've done this 78 times.
+Come back in 11 hours.
+sensorZero = 669
+sensorOne = 522
+We've done this 79 times.
+Come back in 10 hours.
+sensorZero = 775
+sensorOne = 600
+We've done this 80 times.
+Come back in 10 hours.
+sensorZero = 878
+sensorOne = 661
+We've done this 81 times.
+Come back in 10 hours.
+sensorZero = 869
+sensorOne = 651
+We've done this 82 times.
+Come back in 10 hours.
+sensorZero = 709
+sensorOne = 562
+We've done this 83 times.
+Come back in 10 hours.
+sensorZero = 755
+sensorOne = 578
+We've done this 84 times.
+Come back in 10 hours.
+sensorZero = 616
+sensorOne = 505
+We've done this 85 times.
+Come back in 9 hours.
+sensorZero = 439
+sensorOne = 374
+We've done this 86 times.
+Come back in 9 hours.
+sensorZero = 6
+sensorOne = 123
+We've done this 87 times.
+Come back in 9 hours.
+sensorZero = 130
+sensorOne = 179
+We've done this 88 times.
+Come back in 9 hours.
+sensorZero = 254
+sensorOne = 275
+We've done this 89 times.
+Come back in 9 hours.
+sensorZero = 210
+sensorOne = 241
+We've done this 90 times.
+Come back in 9 hours.
+sensorZero = 782
+sensorOne = 598
+We've done this 91 times.
+Come back in 8 hours.
+sensorZero = 499
+sensorOne = 432
+We've done this 92 times.
+Come back in 8 hours.
+sensorZero = 776
+sensorOne = 605
+We've done this 93 times.
+Come back in 8 hours.
+sensorZero = 268
+sensorOne = 287
+We've done this 94 times.
+Come back in 8 hours.
+sensorZero = 679
+sensorOne = 528
+We've done this 95 times.
+Come back in 8 hours.
+sensorZero = 826
+sensorOne = 627
+We've done this 96 times.
+Come back in 8 hours.
+sensorZero = 429
+sensorOne = 388
+We've done this 97 times.
+Come back in 7 hours.
+sensorZero = 308
+sensorOne = 314
+We've done this 98 times.
+Come back in 7 hours.
+sensorZero = 528
+sensorOne = 432
+We've done this 99 times.
+Come back in 7 hours.
+sensorZero = 200
+sensorOne = 242
+We've done this 100 times.
+Come back in 7 hours.
+sensorZero = 891
+sensorOne = 667
+We've done this 101 times.
+Come back in 7 hours.
+sensorZero = 183
+sensorOne = 216
+We've done this 102 times.
+Come back in 7 hours.
+sensorZero = 880
+sensorOne = 661
+We've done this 103 times.
+Come back in 6 hours.
+sensorZero = 55
+sensorOne = 153
+We've done this 104 times.
+Come back in 6 hours.
+sensorZero = 696
+sensorOne = 546
+We've done this 105 times.
+Come back in 6 hours.
+sensorZero = 86
+sensorOne = 169
+We've done this 106 times.
+Come back in 6 hours.
+sensorZero = 511
+sensorOne = 441
+We've done this 107 times.
+Come back in 6 hours.
+sensorZero = 855
+sensorOne = 644
+We've done this 108 times.
+Come back in 6 hours.
+sensorZero = 79
+sensorOne = 158
+We've done this 109 times.
+Come back in 5 hours.
+sensorZero = 336
+sensorOne = 308
+We've done this 110 times.
+Come back in 5 hours.
+sensorZero = 752
+sensorOne = 590
+We've done this 111 times.
+Come back in 5 hours.
+sensorZero = 32
+sensorOne = 131
+We've done this 112 times.
+Come back in 5 hours.
+sensorZero = 553
+sensorOne = 448
+We've done this 113 times.
+Come back in 5 hours.
+sensorZero = 475
+sensorOne = 416
+We've done this 114 times.
+Come back in 5 hours.
+sensorZero = 138
+sensorOne = 199
+We've done this 115 times.
+Come back in 4 hours.
+sensorZero = 837
+sensorOne = 633
+We've done this 116 times.
+Come back in 4 hours.
+sensorZero = 100
+sensorOne = 169
+We've done this 117 times.
+Come back in 4 hours.
+sensorZero = 82
+sensorOne = 166
+We've done this 118 times.
+Come back in 4 hours.
+sensorZero = 775
+sensorOne = 593
+We've done this 119 times.
+Come back in 4 hours.
+sensorZero = 733
+sensorOne = 566
+We've done this 120 times.
+Come back in 4 hours.
+sensorZero = 901
+sensorOne = 670
+We've done this 121 times.
+Come back in 3 hours.
+sensorZero = 235
+sensorOne = 246
+We've done this 122 times.
+Come back in 3 hours.
+sensorZero = 145
+sensorOne = 191
+We've done this 123 times.
+Come back in 3 hours.
+sensorZero = 975
+sensorOne = 724
+We've done this 124 times.
+Come back in 3 hours.
+sensorZero = 894
+sensorOne = 672
+We've done this 125 times.
+Come back in 3 hours.
+sensorZero = 749
+sensorOne = 587
+We've done this 126 times.
+Come back in 3 hours.
+sensorZero = 215
+sensorOne = 248
+We've done this 127 times.
+Come back in 2 hours.
+sensorZero = 835
+sensorOne = 638
+We've done this 128 times.
+Come back in 2 hours.
+sensorZero = 322
+sensorOne = 298
+We've done this 129 times.
+Come back in 2 hours.
+sensorZero = 760
+sensorOne = 583
+We've done this 130 times.
+Come back in 2 hours.
+sensorZero = 12
+sensorOne = 126
+We've done this 131 times.
+Come back in 2 hours.
+sensorZero = 532
+sensorOne = 455
+We've done this 132 times.
+Come back in 2 hours.
+sensorZero = 245
+sensorOne = 272
+We've done this 133 times.
+Come back in 1 hours.
+sensorZero = 77
+sensorOne = 163
+We've done this 134 times.
+Come back in 1 hours.
+sensorZero = 576
+sensorOne = 482
+We've done this 135 times.
+Come back in 1 hours.
+sensorZero = 816
+sensorOne = 626
+We've done this 136 times.
+Come back in 1 hours.
+sensorZero = 848
+sensorOne = 645
+We've done this 137 times.
+Come back in 1 hours.
+sensorZero = 44
+sensorOne = 147
+We've done this 138 times.
+Come back in 1 hours.
