@@ -1,0 +1,290 @@
+We're gonna take data!
+We're gonna take data!
+sensorZero = 60
+We've done this 1 times.
+sensorZero = 51
+We've done this 2 times.
+sensorZero = 48
+We've done this 3 times.
+sensorZero = 47
+We've done this 4 times.
+sensorZero = 46
+We've done this 5 times.
+sensorZero = 45
+We've done this 6 times.
+sensorZero = 44
+We've done this 7 times.
+sensorZero = 44
+We've done this 8 times.
+sensorZero = 44
+We've done this 9 times.
+sensorZero = 43
+We've done this 10 times.
+sensorZero = 43
+We've done this 11 times.
+sensorZero = 43
+We've done this 12 times.
+sensorZero = 43
+We've done this 13 times.
+sensorZero = 42
+We've done this 14 times.
+sensorZero = 42
+We've done this 15 times.
+sensorZero = 41
+We've done this 16 times.
+sensorZero = 40
+We've done this 17 times.
+sensorZero = 40
+We've done this 18 times.
+sensorZero = 40
+We've done this 19 times.
+sensorZero = 40
+We've done this 20 times.
+sensorZero = 39
+We've done this 21 times.
+sensorZero = 39
+We've done this 22 times.
+sensorZero = 39
+We've done this 23 times.
+sensorZero = 40
+We've done this 24 times.
+sensorZero = 40
+We've done this 25 times.
+sensorZero = 41
+We've done this 26 times.
+sensorZero = 41
+We've done this 27 times.
+sensorZero = 41
+We've done this 28 times.
+sensorZero = 41
+We've done this 29 times.
+sensorZero = 41
+We've done this 30 times.
+sensorZero = 41
+We've done this 31 times.
+sensorZero = 41
+We've done this 32 times.
+sensorZero = 41
+We've done this 33 times.
+sensorZero = 41
+We've done this 34 times.
+sensorZero = 41
+We've done this 35 times.
+sensorZero = 40
+We've done this 36 times.
+sensorZero = 41
+We've done this 37 times.
+sensorZero = 41
+We've done this 38 times.
+sensorZero = 41
+We've done this 39 times.
+sensorZero = 41
+We've done this 40 times.
+sensorZero = 42
+We've done this 41 times.
+sensorZero = 42
+We've done this 42 times.
+sensorZero = 42
+We've done this 43 times.
+sensorZero = 41
+We've done this 44 times.
+sensorZero = 41
+We've done this 45 times.
+sensorZero = 41
+We've done this 46 times.
+sensorZero = 42
+We've done this 47 times.
+sensorZero = 41
+We've done this 48 times.
+sensorZero = 41
+We've done this 49 times.
+sensorZero = 41
+We've done this 50 times.
+sensorZero = 41
+We've done this 51 times.
+sensorZero = 41
+We've done this 52 times.
+sensorZero = 41
+We've done this 53 times.
+sensorZero = 41
+We've done this 54 times.
+sensorZero = 40
+We've done this 55 times.
+sensorZero = 40
+We've done this 56 times.
+sensorZero = 39
+We've done this 57 times.
+sensorZero = 39
+We've done this 58 times.
+sensorZero = 39
+We've done this 59 times.
+sensorZero = 39
+We've done this 60 times.
+sensorZero = 38
+We've done this 61 times.
+sensorZero = 38
+We've done this 62 times.
+sensorZero = 39
+We've done this 63 times.
+sensorZero = 38
+We've done this 64 times.
+sensorZero = 39
+We've done this 65 times.
+sensorZero = 40
+We've done this 66 times.
+sensorZero = 40
+We've done this 67 times.
+sensorZero = 40
+We've done this 68 times.
+sensorZero = 40
+We've done this 69 times.
+sensorZero = 40
+We've done this 70 times.
+sensorZero = 41
+We've done this 71 times.
+sensorZero = 41
+We've done this 72 times.
+sensorZero = 41
+We've done this 73 times.
+sensorZero = 41
+We've done this 74 times.
+sensorZero = 41
+We've done this 75 times.
+sensorZero = 41
+We've done this 76 times.
+sensorZero = 41
+We've done this 77 times.
+sensorZero = 41
+We've done this 78 times.
+sensorZero = 41
+We've done this 79 times.
+sensorZero = 41
+We've done this 80 times.
+sensorZero = 41
+We've done this 81 times.
+sensorZero = 41
+We've done this 82 times.
+sensorZero = 41
+We've done this 83 times.
+sensorZero = 41
+We've done this 84 times.
+sensorZero = 41
+We've done this 85 times.
+sensorZero = 41
+We've done this 86 times.
+sensorZero = 40
+We've done this 87 times.
+sensorZero = 40
+We've done this 88 times.
+sensorZero = 41
+We've done this 89 times.
+sensorZero = 39
+We've done this 90 times.
+sensorZero = 39
+We've done this 91 times.
+sensorZero = 39
+We've done this 92 times.
+sensorZero = 39
+We've done this 93 times.
+sensorZero = 38
+We've done this 94 times.
+sensorZero = 38
+We've done this 95 times.
+sensorZero = 38
+We've done this 96 times.
+sensorZero = 38
+We've done this 97 times.
+sensorZero = 38
+We've done this 98 times.
+sensorZero = 38
+We've done this 99 times.
+sensorZero = 39
+We've done this 100 times.
+sensorZero = 39
+We've done this 101 times.
+sensorZero = 40
+We've done this 102 times.
+sensorZero = 40
+We've done this 103 times.
+sensorZero = 40
+We've done this 104 times.
+sensorZero = 40
+We've done this 105 times.
+sensorZero = 40
+We've done this 106 times.
+sensorZero = 39
+We've done this 107 times.
+sensorZero = 39
+We've done this 108 times.
+sensorZero = 40
+We've done this 109 times.
+sensorZero = 40
+We've done this 110 times.
+sensorZero = 40
+We've done this 111 times.
+sensorZero = 40
+We've done this 112 times.
+sensorZero = 41
+We've done this 113 times.
+sensorZero = 41
+We've done this 114 times.
+sensorZero = 41
+We've done this 115 times.
+sensorZero = 40
+We've done this 116 times.
+sensorZero = 40
+We've done this 117 times.
+sensorZero = 41
+We've done this 118 times.
+sensorZero = 40
+We've done this 119 times.
+sensorZero = 40
+We've done this 120 times.
+sensorZero = 40
+We've done this 121 times.
+sensorZero = 40
+We've done this 122 times.
+sensorZero = 40
+We've done this 123 times.
+sensorZero = 40
+We've done this 124 times.
+sensorZero = 40
+We've done this 125 times.
+sensorZero = 40
+We've done this 126 times.
+sensorZero = 39
+We've done this 127 times.
+sensorZero = 39
+We've done this 128 times.
+sensorZero = 39
+We've done this 129 times.
+sensorZero = 38
+We've done this 130 times.
+sensorZero = 38
+We've done this 131 times.
+sensorZero = 38
+We've done this 132 times.
+sensorZero = 37
+We've done this 133 times.
+sensorZero = 37
+We've done this 134 times.
+sensorZero = 37
+We've done this 135 times.
+sensorZero = 37
+We've done this 136 times.
+sensorZero = 38
+We've done this 137 times.
+sensorZero = 39
+We've done this 138 times.
+sensorZero = 40
+We've done this 139 times.
+sensorZero = 42
+We've done this 140 times.
+sensorZero = 45
+We've done this 141 times.
+sensorZero = 46
+We've done this 142 times.
+sensorZero = 46
+We've done this 143 times.
+sensorZero = 46
+We've done this 144 times.
