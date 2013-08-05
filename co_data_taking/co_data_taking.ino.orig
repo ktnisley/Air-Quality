@@ -22,9 +22,14 @@ void setup() {
   pinMode(ledPin, OUTPUT);      
   pinMode(sensorControl, OUTPUT);
   Serial.begin(9600); 
+<<<<<<< HEAD:co_data_taking/co_data_taking.ino
   Serial.println("We're gonna take data!");
   Serial.println("Sensor Zero, Sensor One, Sensor Two, Iterations");
   digitalWrite(sensorControl, HIGH);
+=======
+  Serial.println("We're gonna heat for 5 minutes, and then take data!");
+  digitalWrite(sensorZeroControl, HIGH);
+>>>>>>> master:co_data_taking/co_data_taking.ino
   delay(300000);        //wait 5 minutes for preheat
 }
 
