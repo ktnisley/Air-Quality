@@ -1,43 +1,21 @@
-We're gonna take data!
 sensorZero = 1022
-We've done this 1 times.
 sensorZero = 1022
-We've done this 2 times.
 sensorZero = 1022
-We've done this 3 times.
 sensorZero = 1022
-We've done this 4 times.
 sensorZero = 1022
-We've done this 5 times.
 sensorZero = 1022
-We've done this 6 times.
 sensorZero = 1022
-We've done this 7 times.
 sensorZero = 1023
-We've done this 8 times.
 sensorZero = 1023
-We've done this 9 times.
 sensorZero = 142
-We've done this 10 times.
 sensorZero = 130
-We've done this 11 times.
 sensorZero = 124
-We've done this 12 times.
 sensorZero = 121
-We've done this 13 times.
 sensorZero = 118
-We've done this 14 times.
 sensorZero = 115
-We've done this 15 times.
 sensorZero = 113
-We've done this 16 times.
 sensorZero = 113
-We've done this 17 times.
 sensorZero = 112
-We've done this 18 times.
 sensorZero = 111
-We've done this 19 times.
 
-
-Around iteration 9 the grounds were properly connected.
-Running at 4V continuously instead of the proper 5V/1.4V.
+Around iteration 9 the grounds were properly connected. Running at 4V continuously instead of the proper 5V/1.4V.
