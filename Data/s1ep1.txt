@@ -1,21 +1,22 @@
-sensorZero = 1022
-sensorZero = 1022
-sensorZero = 1022
-sensorZero = 1022
-sensorZero = 1022
-sensorZero = 1022
-sensorZero = 1022
-sensorZero = 1023
-sensorZero = 1023
-sensorZero = 142
-sensorZero = 130
-sensorZero = 124
-sensorZero = 121
-sensorZero = 118
-sensorZero = 115
-sensorZero = 113
-sensorZero = 113
-sensorZero = 112
-sensorZero = 111
+sensorZero
+1022
+1022
+1022
+1022
+1022
+1022
+1022
+1023
+1023
+142
+130
+124
+121
+118
+115
+113
+113
+112
+111
 
-Around iteration 9 the grounds were properly connected. Running at 4V continuously instead of the proper 5V/1.4V.
+Running at 4V instead on 5V, grounds properly connected around iteration 9.

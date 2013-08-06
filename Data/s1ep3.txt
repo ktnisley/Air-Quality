@@ -1,144 +1,144 @@
-sensorZero = 60
-sensorZero = 51
-sensorZero = 48
-sensorZero = 47
-sensorZero = 46
-sensorZero = 45
-sensorZero = 44
-sensorZero = 44
-sensorZero = 44
-sensorZero = 43
-sensorZero = 43
-sensorZero = 43
-sensorZero = 43
-sensorZero = 42
-sensorZero = 42
-sensorZero = 41
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 39
-sensorZero = 39
-sensorZero = 39
-sensorZero = 40
-sensorZero = 40
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 40
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 42
-sensorZero = 42
-sensorZero = 42
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 42
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 40
-sensorZero = 40
-sensorZero = 39
-sensorZero = 39
-sensorZero = 39
-sensorZero = 39
-sensorZero = 38
-sensorZero = 38
-sensorZero = 39
-sensorZero = 38
-sensorZero = 39
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 40
-sensorZero = 40
-sensorZero = 41
-sensorZero = 39
-sensorZero = 39
-sensorZero = 39
-sensorZero = 39
-sensorZero = 38
-sensorZero = 38
-sensorZero = 38
-sensorZero = 38
-sensorZero = 38
-sensorZero = 38
-sensorZero = 39
-sensorZero = 39
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 39
-sensorZero = 39
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 41
-sensorZero = 41
-sensorZero = 41
-sensorZero = 40
-sensorZero = 40
-sensorZero = 41
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 40
-sensorZero = 39
-sensorZero = 39
-sensorZero = 39
-sensorZero = 38
-sensorZero = 38
-sensorZero = 38
-sensorZero = 37
-sensorZero = 37
-sensorZero = 37
-sensorZero = 37
-sensorZero = 38
-sensorZero = 39
-sensorZero = 40
-sensorZero = 42
-sensorZero = 45
-sensorZero = 46
-sensorZero = 46
-sensorZero = 46
+60
+51
+48
+47
+46
+45
+44
+44
+44
+43
+43
+43
+43
+42
+42
+41
+40
+40
+40
+40
+39
+39
+39
+40
+40
+41
+41
+41
+41
+41
+41
+41
+41
+41
+41
+40
+41
+41
+41
+41
+42
+42
+42
+41
+41
+41
+42
+41
+41
+41
+41
+41
+41
+41
+40
+40
+39
+39
+39
+39
+38
+38
+39
+38
+39
+40
+40
+40
+40
+40
+41
+41
+41
+41
+41
+41
+41
+41
+41
+41
+41
+41
+41
+41
+41
+41
+40
+40
+41
+39
+39
+39
+39
+38
+38
+38
+38
+38
+38
+39
+39
+40
+40
+40
+40
+40
+39
+39
+40
+40
+40
+40
+41
+41
+41
+40
+40
+41
+40
+40
+40
+40
+40
+40
+40
+40
+39
+39
+39
+38
+38
+38
+37
+37
+37
+37
+38
+39
+40
+42
+45
+46
+46
+46
